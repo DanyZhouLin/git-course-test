@@ -1,0 +1,3 @@
+C:/Users/ml/Desktop/ALGORITMIA_LABS/LAB01-26-1-P2/cmake-build-debug/CMakeFiles/LAB01_26_1_P2.dir
+C:/Users/ml/Desktop/ALGORITMIA_LABS/LAB01-26-1-P2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ml/Desktop/ALGORITMIA_LABS/LAB01-26-1-P2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
